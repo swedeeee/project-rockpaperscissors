@@ -12,4 +12,4 @@ Game made as part of [The Odin Project](https://www.theodinproject.com/)
 * if/else statements.
 
 ### Tech Used
-*JavaScript, HTML, CSS
+* JavaScript, HTML, CSS
